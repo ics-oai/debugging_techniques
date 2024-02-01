@@ -1,3 +1,0 @@
-# Techniques
-- [[Breakpoints]]
-- [[Print Statements]]
